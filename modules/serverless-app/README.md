@@ -20,8 +20,8 @@ For production-ready versions of this code and many other types of infrastructur
 
 ## Usage
 
-Check out the [examples](/examples) folder for working sample code that uses this module.
+Check out the [examples](https://github.com/terraform-modules-krish/infrastructure-as-code-testing-talk/blob/master/examples) folder for working sample code that uses this module.
 
 ## Tests
 
-Check out the [test](/test) folder for examples of automated tests for this module.
+Check out the [test](https://github.com/terraform-modules-krish/infrastructure-as-code-testing-talk/blob/master/test) folder for examples of automated tests for this module.

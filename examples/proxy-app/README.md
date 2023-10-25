@@ -1,6 +1,6 @@
 # Proxy App Example
 
-This folder contains example code that shows how to use the [serverless-app module](/modules/serverless-app) to deploy
+This folder contains example code that shows how to use the [serverless-app module](https://github.com/terraform-modules-krish/infrastructure-as-code-testing-talk/blob/master/modules/serverless-app) to deploy
 a proxy Node.js app on top of [AWS Lambda](https://aws.amazon.com/lambda/) and 
 [API Gateway](https://aws.amazon.com/api-gateway/). This app will proxy the URL specified via the `url_to_proxy` 
 variable.

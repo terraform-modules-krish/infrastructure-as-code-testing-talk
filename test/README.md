@@ -1,6 +1,6 @@
 # Automated tests
 
-This folder contains the automated tests for all of the example code in the [/examples folder](/examples).
+This folder contains the automated tests for all of the example code in the [/examples folder](https://github.com/terraform-modules-krish/infrastructure-as-code-testing-talk/blob/master/examples).
 
 **Note**: This repo is for demonstration and learning purposes only and should NOT be used to run anything important. 
 For production-ready versions of this code and many other types of infrastructure, check out 

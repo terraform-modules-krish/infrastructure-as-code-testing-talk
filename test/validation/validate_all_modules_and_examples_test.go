@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	test_structure "github.com/terraform-modules-krish/terratest/modules/test-structure"
 
 	"github.com/stretchr/testify/require"
 )
